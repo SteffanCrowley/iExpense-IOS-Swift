@@ -13,6 +13,7 @@
 		9CA69A4328B5508700B4A374 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CA69A4228B5508700B4A374 /* Preview Assets.xcassets */; };
 		9CA69A4A28B56D4700B4A374 /* ExpenseItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA69A4928B56D4700B4A374 /* ExpenseItem.swift */; };
 		9CA69A4C28B56D8500B4A374 /* Expenses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA69A4B28B56D8500B4A374 /* Expenses.swift */; };
+		9CA69A4E28B5792000B4A374 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA69A4D28B5792000B4A374 /* AddView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		9CA69A4228B5508700B4A374 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9CA69A4928B56D4700B4A374 /* ExpenseItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseItem.swift; sourceTree = "<group>"; };
 		9CA69A4B28B56D8500B4A374 /* Expenses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expenses.swift; sourceTree = "<group>"; };
+		9CA69A4D28B5792000B4A374 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				9CA69A3B28B5508600B4A374 /* iExpense_IOS_SwiftApp.swift */,
 				9CA69A3D28B5508600B4A374 /* ContentView.swift */,
+				9CA69A4D28B5792000B4A374 /* AddView.swift */,
 				9CA69A4B28B56D8500B4A374 /* Expenses.swift */,
 				9CA69A4928B56D4700B4A374 /* ExpenseItem.swift */,
 				9CA69A3F28B5508700B4A374 /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			files = (
 				9CA69A4C28B56D8500B4A374 /* Expenses.swift in Sources */,
 				9CA69A3E28B5508600B4A374 /* ContentView.swift in Sources */,
+				9CA69A4E28B5792000B4A374 /* AddView.swift in Sources */,
 				9CA69A4A28B56D4700B4A374 /* ExpenseItem.swift in Sources */,
 				9CA69A3C28B5508600B4A374 /* iExpense_IOS_SwiftApp.swift in Sources */,
 			);
